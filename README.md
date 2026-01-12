@@ -7,4 +7,5 @@ Qt开源项目集合
 ### url: https://gitee.com/QtOpenSource
 # 3.14个Qt开源项目推荐(知乎)
 ### url： https://zhuanlan.zhihu.com/p/656004850
-
+# 4.最适合Qt初学者的项目：30 多个开源 Demo 一网打尽
+### url: https://gitee.com/feiyangqingyun/QWidgetDemo
